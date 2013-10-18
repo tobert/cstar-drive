@@ -6,6 +6,8 @@ Scripts to create Cassandra USB drives handed out at Cassandra EU 2013
 For this first pass, the drives were rolled by hand with a few simple scripts. In the future, this will be replaced
 by an existing tool such as Packer.
 
+I will push the code next week around 2013-10-22, after I have a little time to tidy things up.
+
 Notes
 =====
 
